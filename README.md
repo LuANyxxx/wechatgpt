@@ -31,9 +31,8 @@ cp config/config.yaml.example local/config.yaml
 
 ```
 chatgpt:
-  wechat: 小莫
-  token: sk-pKHZD1fLYqXDjjsdsdsdUvIODTT3ssjdfadsJC2gTuqqhTum
-  telegram: your telegram token
+  wechat: gpt
+  token: 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
 ```
 
 大陆用户注册`openai`请参考 [注册ChatGPT详细指南](https://sms-activate.org/cn/info/ChatGPT)
